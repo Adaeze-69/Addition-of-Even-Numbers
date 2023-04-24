@@ -22,4 +22,4 @@ Important, there should only be 1 print statement in your console output. It sho
 
 # Solution
 
-[https://repl.it/@appbrewery/day-5-3-solution](https://repl.it/@appbrewery/day-5-3-solution)
+[https://replit.com/@adaeze-nnamdi/Addition-of-Even-Numbers#main.py](https://replit.com/@adaeze-nnamdi/Addition-of-Even-Numbers#main.py)
